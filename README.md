@@ -44,12 +44,11 @@ express/
    git clone https://github.com/datnguyxn/express.git
    cd express
 
-	2.	Open the project in Xcode:
+2. Open the project in Xcode:
 
 open express.xcodeproj
 
-
-	3.	Build and run the project on your preferred simulator or device.
+3. Build and run the project on your preferred simulator or device.
 
 🧪 Testing
 
